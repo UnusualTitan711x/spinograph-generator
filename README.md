@@ -1,2 +1,2 @@
 # spinograph generator
- A python program that generates spinographs 
+ A Python program that generates spinographs using turtle.
